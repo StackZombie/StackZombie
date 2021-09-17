@@ -15,7 +15,7 @@
 
 
 <br/><br/>
-<img src="https://cdn.dribbble.com/users/464600/screenshots/3011265/media/d4e412d3d7d5386b75b3b572ef129804.gif" align="middle" width="600" height="400"/>
+<img style="marginLeft:100px;" src="https://cdn.dribbble.com/users/464600/screenshots/3011265/media/d4e412d3d7d5386b75b3b572ef129804.gif" align="middle" width="600" height="400"/>
 
 ### Connect with me:
 
