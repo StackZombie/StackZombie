@@ -1,16 +1,14 @@
-### Hi there I am Khurram aka (Stack Zombie) 👋
+### Hi there I am Khurram 👋
 
 ### 😄 Pronouns: wizzi, He 
 
-StackZombie/StackZombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I am a Full Stack Developer 
 
 - 🔭 I’m currently working on Microservice based cloud native Web/Mob Applications
-- 🌱 I’m currently Devops Practices 
-- 👯 I’m looking to collaborate on open source Nasa ,OpenAi projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Docker, Microservices, Javascript (React, Angular and Electron.js)
-- 📫 How to reach me: tba soon
+- 🌱 I’m currently learning Devops Practices, Technical Content Writing,
+- 👯 I’m looking to collaborate on open source NASA ,OpenAi projects
+- 🤔 I’m looking for help with Griffana
+- 💬 Ask me about Docker :whale:	, Microservices :grapes:	, Kafka, Javascript (React, Angular and Electron.js)
 - ⚡ Fun fact: .....
 -
+###  📫 I am a Full Stack Developer 
