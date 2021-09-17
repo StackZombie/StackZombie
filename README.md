@@ -27,4 +27,4 @@
 [linkedin]: https://www.linkedin.com/in/muhammad-khurram-raza/
 
 <br/><br/>
-<img src="https://cdn.dribbble.com/users/464600/screenshots/3011265/media/d4e412d3d7d5386b75b3b572ef129804.gif" align="center" />
+<img src="https://cdn.dribbble.com/users/464600/screenshots/3011265/media/d4e412d3d7d5386b75b3b572ef129804.gif" align="center" width="400" height="400"/>
