@@ -27,10 +27,7 @@
 </p>
 <br/>
 <br/>
-<p align="center">
-         <img  alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=StackZombie&show_icons=true&theme=monokai&hide=contribs" />
 
-  </p>
 
 
 
