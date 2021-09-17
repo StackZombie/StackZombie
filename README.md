@@ -3,7 +3,7 @@
 ### 😄 Pronouns: wizzi, He 
 
 ### I am a Full Stack Developer 
-<br/><img src="https://cdn.dribbble.com/users/566524/screenshots/5317438/media/a3fbdee64b8a6cb772c81e317598951d.gif" align="centre"/>
+
 
 - 🔭 I’m currently working on Microservice based cloud native Web/Mob Applications
 - 🌱 I’m currently learning Devops Practices, Technical Content Writing,
