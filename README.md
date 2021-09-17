@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/jest%20-ffcff1.svg?&style=for-the-badge&logo=jest&logoColor=black"/>
   <img src="https://img.shields.io/badge/GIT%20-%23cb3a37.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes%20-0096FF.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redux%20-002fa7.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 <br/>
 <br/>
@@ -37,7 +38,7 @@
 
 
 <br/><br/>
-<img style="marginLeft:100px;" src="https://cdn.dribbble.com/users/464600/screenshots/3011265/media/d4e412d3d7d5386b75b3b572ef129804.gif" align="middle" width="600" height="400"/>
+<img style="marginLeft:100;" src="https://cdn.dribbble.com/users/464600/screenshots/3011265/media/d4e412d3d7d5386b75b3b572ef129804.gif" align="middle" width="600" height="400"/>
 
 ### Connect with me:
 
