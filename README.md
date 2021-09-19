@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Kubernetes%20-0096FF.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/redux%20-002fa7.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx%20-2e8b57.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis%20-%23cb3a37.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 <br/>
 <br/>
