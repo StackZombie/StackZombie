@@ -42,9 +42,12 @@
 <br/><br/>
 <img style="margin-left:100;" src="https://cdn.dribbble.com/users/464600/screenshots/3011265/media/d4e412d3d7d5386b75b3b572ef129804.gif" align="middle" width="600" height="400"/>
 
+<img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"/>
+
 ### Connect with me:
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/muhammad-khurram-raza/
 [medium]: https://rezza-khurram.medium.com/
+
