@@ -1,6 +1,5 @@
 ### Hi there I am Khurram 👋
 
-### 😄 Pronouns: wizzi, He 
 
 ### I am a Full Stack Developer 
 
