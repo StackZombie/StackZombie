@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Microservice based cloud native Web/Mob Applications
 - 🌱 I’m currently learning Devops Practices, Technical Content Writing
 - 💬 Ask me about Docker :whale:	, Microservices :grapes:	, Kafka, Javascript (React, Angular, Node.js, Express.js, Jest and Electron.js)
-- ⚡ Fun fact: TBA
+- ⚡ Fun fact: Running :runner: ,
 
 ### Languages and Tools:
 <p>
