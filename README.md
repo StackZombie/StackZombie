@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 
 
 
 ### I am a Full Stack Developer 
@@ -38,8 +38,6 @@
 
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"/>
 
 ### Connect with me:
 
