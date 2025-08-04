@@ -1,12 +1,12 @@
-### Hi 
+### Hi 👋🏾
 
 
-### I am a Full Stack Developer 
+### I am an INTRAPRENEUR & a FULL STACK DEVELOPER 
 
 
 - 🔭 I’m currently working on Microservice based cloud native Web/Mob Applications
-- 🌱 I’m currently learning Devops Practices, Technical Content Writing
-- 💬 Ask me about Docker :whale:	, Microservices :grapes:	, Kafka, Javascript (React, Angular, Node.js, Express.js, Jest and Electron.js)
+- 🌱 I’m currently learning Devops Practices, System Design,
+- 💬 Ask me about Docker :whale:	, Microservices :grapes:	, Kafka, Javascript (React,React Native, Angular, Node.js, Express.js,Typescript, Jest and Electron.js)
 - ⚡ Fun fact: Running :runner: ,
 
 ### Languages and Tools:
@@ -36,10 +36,6 @@
 <p align="center">
  <img src="https://drive.google.com/uc?export=view&id=1pv1MAjAmAwarl8uxJqaYEReObamho6hx" alt="WooHoo" width="500"/>
 </p>
-### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/mkhuramraza/
 
 
