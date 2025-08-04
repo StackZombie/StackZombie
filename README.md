@@ -32,11 +32,10 @@
   <img src="https://img.shields.io/badge/Redis%20-%23cb3a37.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 <br/>
-<br/>
-<br/>
-<br/>
 
+<p align="center">
  <img src="https://drive.google.com/uc?export=view&id=1pv1MAjAmAwarl8uxJqaYEReObamho6hx" alt="WooHoo" width="500"/>
+</p>
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
