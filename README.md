@@ -35,7 +35,7 @@
 <br/>
 <br/>
 <br/>
-![WooHoo](https://drive.google.com/file/d/1pv1MAjAmAwarl8uxJqaYEReObamho6hx/view?usp=sharing)
+![WooHoo](https://drive.google.com/uc?export=view&id=file/d/1pv1MAjAmAwarl8uxJqaYEReObamho6hx)
  
 
 
