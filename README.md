@@ -1,7 +1,7 @@
 ### Hi 👋🏾
 
 
-### I am an INTRAPRENEUR & a FULL STACK DEVELOPER 
+### I am an Intrapreneur & a Full Stack Developer 
 
 
 - 🔭 I’m currently working on Microservice based cloud native Web/Mob Applications
