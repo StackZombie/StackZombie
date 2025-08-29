@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Microservice based cloud native Web/Mob Applications
 - 🌱 I’m currently learning Devops Practices, System Design,
 - 💬 Ask me about Docker :whale:	, Microservices :grapes:	, Kafka, Javascript (React,React Native, Angular, Node.js, Express.js,Typescript, Jest and Electron.js)
-- ⚡ Fun fact: Running :runner: ,
+
 
 ### Languages and Tools:
 <p>
